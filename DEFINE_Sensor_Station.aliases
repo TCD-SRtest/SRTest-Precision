@@ -1,6 +1,0 @@
-[My Computer]
-My Computer = "192.168.0.1"
-
-[NI-cRIO-9066-TCD]
-NI-cRIO-9066-TCD = "192.168.0.200"
-
