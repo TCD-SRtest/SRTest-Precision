@@ -37,6 +37,7 @@
 			<Item Name="Controller - Get Axis Parameters (subVI).vi" Type="VI" URL="../SubVIs/Controller - Get Axis Parameters (subVI).vi"/>
 			<Item Name="Controller - Get Programs (subVI).vi" Type="VI" URL="../SubVIs/Controller - Get Programs (subVI).vi"/>
 			<Item Name="Laser - Data2Distance (SubVI).vim" Type="VI" URL="../SubVIs/Laser - Data2Distance (SubVI).vim"/>
+			<Item Name="Laser - Data2Distance_Array (SubVI).vim" Type="VI" URL="../SubVIs/Laser - Data2Distance_Array (SubVI).vim"/>
 		</Item>
 		<Item Name="Supporting Files" Type="Folder">
 			<Item Name="Axis Parameters.ctl" Type="VI" URL="../Supporting Files/Axis Parameters.ctl"/>
